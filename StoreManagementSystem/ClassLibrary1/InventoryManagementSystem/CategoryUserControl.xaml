@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="InventoryManagementSystem.CategoryUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InventoryManagementSystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <WrapPanel Grid.Row="0" Orientation="Horizontal">
+
+            <Border BorderThickness="0,0,0,1" BorderBrush="White" Margin="5">
+                <StackPanel Height="50" Margin="20,20,30,0" >
+                    <Label Padding="2" HorizontalAlignment="Left" Foreground="White">Inventory Name</Label>
+
+                    <ComboBox Name="CategoryPage_InventoryComboBx" SelectionChanged="CategoryPage_InventoryComboBx_SelectionChanged">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Path=Location}"></TextBlock>
+                                </WrapPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+
+                </StackPanel>
+            </Border>
+
+            <Border BorderThickness="0,0,0,1" BorderBrush="White" Margin="5">
+                <StackPanel Height="50" Margin="50,20,30,0" >
+                    <Label Padding="2" HorizontalAlignment="Left" Foreground="White">Category Name</Label>
+                    <TextBox Width="200" Name="CategoryNameInCategoryPageTxtBx" Text="{Binding ElementName=CategoryListView, Path=SelectedItem.Name, Mode=OneWay}"></TextBox>
+                </StackPanel>
+            </Border>
+
+        </WrapPanel>
+
+        <WrapPanel Grid.Row="1" Width="350" Margin="225,0,225,0">
+            <Button Name="AddNewCategory" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,20,10,0" Click="AddNewCategory_Click">New</Button>
+            <Button Name="EditCategory" Width="100" Height="30" Background="White" BorderBrush="Blue" BorderThickness="2" Foreground="Blue" Margin="5,20,10,0" Click="EditCategory_Click">Save</Button>
+            <Button Name="DeleteCategory" Width="100" Height="30" Background="White" BorderBrush="Red" BorderThickness="2" Foreground="Red" Margin="5,20,5,0" Click="DeleteCategory_Click">Delete</Button>
+        </WrapPanel>
+
+        <Grid Grid.Row="2">
+
+            <ListView Width="800" Height="150" Name="CategoryListView" SelectionMode="Single">
+
+                <ListView.View>
+
+                    <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Categories Information">
+
+                        <GridViewColumn Width="100" DisplayMemberBinding="{Binding ID}">
+                            <GridViewColumnHeader>
+                                Number
+                            </GridViewColumnHeader>
+                        </GridViewColumn>
+
+                        <GridViewColumn Width="700" DisplayMemberBinding="{Binding Name}">
+                            <GridViewColumnHeader HorizontalAlignment="Left">
+                                Category Name
+                            </GridViewColumnHeader>
+                        </GridViewColumn>
+
+                    </GridView>
+
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+    </Grid>
+
+</UserControl>

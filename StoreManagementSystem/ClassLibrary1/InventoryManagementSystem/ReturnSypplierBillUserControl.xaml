@@ -1,0 +1,111 @@
+﻿<UserControl x:Class="InventoryManagementSystem.ReturnSypplierBillUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InventoryManagementSystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid ShowGridLines="False">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition  Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Margin="10 0 0 0">
+
+
+                <TextBlock Foreground="White">Supplier Name</TextBlock>
+                <TextBlock Foreground="White" Name="ReturnBillSupplerName"  ></TextBlock>
+
+                <TextBlock Foreground="White" >Inventory</TextBlock>
+                <TextBlock Foreground="White" Name="ReturnBillInventory"></TextBlock>
+
+                <TextBlock Foreground="White">Quantity</TextBlock>
+                <TextBlock Foreground="White" Name="ReturnBillQty"></TextBlock>
+
+                <TextBlock Foreground="White">Date</TextBlock>
+                <TextBlock Name="ReturnBillDate" ></TextBlock>
+
+                <TextBlock Foreground="White">Bill Total</TextBlock>
+                <TextBlock Foreground="White" Name="ReturnBillTotal"  ></TextBlock>
+
+                <TextBlock Foreground="White">Total Return</TextBlock>
+                <TextBlock Foreground="White" Name="ReturnBillReturnedTotal" ></TextBlock>
+                
+            </StackPanel>
+
+            
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="70"></RowDefinition>
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="150"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <ListView Name="lvReturnBillCurrentProducts" Height="150" SelectionMode="Single" Width="500" >
+                    <ListView.View>
+
+                        <GridView>
+
+
+                            <GridViewColumn DisplayMemberBinding="{Binding Product.Name}" Header="Name" Width="200"></GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Quantity}" Header="Quantity" Width="150"></GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding TotalPrice}" Header="Price" Width="150"></GridViewColumn>
+
+                        </GridView>
+                    </ListView.View>
+
+                </ListView>
+            </StackPanel>
+
+            <WrapPanel Grid.Row="1" Width="500" Margin="50 20 50 0">
+
+                <TextBox Name="ReturnBillIdSearch" Width="100" Height="30" ></TextBox>
+                <Button Name="btnReturnBillSelectedQty" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,0,10,0" Click="btnReturnBillSearch_Click">Search</Button>
+
+                <TextBox Name="txtReturnBillQty" Width="100" Height="30" ></TextBox>
+                <Button Name="btnReturnBillSearch" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,0,10,0"  Click="btnReturnBillSelectedQty_Click">Select</Button>
+
+            </WrapPanel>
+
+            <StackPanel Grid.Row="2">
+                <ListView Name="lvReturnBillSelectedProducts" SelectionMode="Single" Width="500" Height="150" HorizontalAlignment="Center">
+                    <ListView.View >
+
+                        <GridView >
+
+                            <GridViewColumn DisplayMemberBinding="{Binding Product.Name}" Header="Name" Width="200"></GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Quantity}" Header="Quantity" Width="150"></GridViewColumn>
+                            <GridViewColumn DisplayMemberBinding="{Binding Price}" Header="Price" Width="150"></GridViewColumn>
+
+                        </GridView>
+                    </ListView.View>
+
+                </ListView>
+            </StackPanel>
+
+            <WrapPanel Grid.Row="3" Width="350" >
+                <Button Name="ReturnBillConfirm" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,20,10,0" Click="ReturnBillConfirm_Click">Confirm</Button>
+                <Button Name="ReturnBillReset" Width="100" Height="30" Background="White" BorderBrush="Blue" BorderThickness="2" Foreground="Blue" Margin="5,20,10,0" Click="ReturnBillReset_Click">Reset</Button>
+                <Button Name="ReturnBillRemove" Width="100" Height="30" Background="White" BorderBrush="Red" BorderThickness="2" Foreground="Red" Margin="5,20,5,0" Click="ReturnBillRemove_Click">Delete</Button>
+            </WrapPanel>
+        </Grid>
+
+
+    </Grid>
+
+
+</UserControl>

@@ -1,0 +1,255 @@
+﻿<Window x:Class="InventoryManagementSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Numeric="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"        
+        xmlns:local="clr-namespace:InventoryManagementSystem"
+        MinWidth="1000"
+        MinHeight="700"
+        mc:Ignorable="d"
+        ResizeMode="CanResizeWithGrip"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Height="750" Width="1080"
+        WindowState="Maximized">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Margin" Value="0 10 0 0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="20" Background="{TemplateBinding Background}">
+                            <ContentControl Content="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}"  HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="CornflowerBlue"/>
+        </Style>
+
+        <Style x:Key="MenuButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#FF2A3F64"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Width" Value="120"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="20" Background="{TemplateBinding Background}">
+                            <ContentControl Content="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}"  HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Border CornerRadius="20">
+        <Border.Background>
+            <ImageBrush ImageSource="Images/storage.jpg"
+                        Stretch="None"/>
+        </Border.Background>
+        <Border CornerRadius="15"                    
+            BorderThickness="5"
+            Opacity="0.88"
+            >
+
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#462AD8" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#8A16C1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="0.4"/>
+                    <GradientStop Color="#FF332A6F" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid ShowGridLines="False">
+                <!--22491579  #FF4571C1-->
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+
+                <!--HEADER-->
+                <Grid Grid.ColumnSpan="2">
+                    <Border Grid.Row="0" Height="75" HorizontalAlignment="Stretch" Background="#FF7272A7" CornerRadius="15"/>
+                    <TextBlock Text="A_Z Store Management System"  FontFamily="Montserrat" FontSize="32" FontStretch="ExtraExpanded" FontWeight="Bold" Foreground="white" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                    <Button x:Name="btnMinimize"                           
+                            BorderThickness="2"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                           HorizontalAlignment="Right"
+                            Margin="0 0 30 0"
+                            Click="btnMinimize_Click"
+                        >
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#28AEED"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#278BEF"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+
+                    <Button x:Name="btnClose"  
+                            Content="X"
+                            BorderThickness="0"
+                            HorizontalAlignment="Right"
+                            Foreground="white"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"                           
+                       
+                            Click="btnClose_Click" Height="50" 
+                            >
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#DA34AE"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#C62DAE"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+
+                <!--MENU SIDEBAR-->
+                <Border  Grid.Row="1" HorizontalAlignment="Stretch"
+                         CornerRadius="15"                    
+                         BorderThickness="5"
+                                             >
+
+                    <StackPanel Width="210" Margin="20">
+
+                        <Button 
+                                Name="Inventories"
+                                Content="Inventories"
+                                Click="Inventories_Click"
+                                Style="{StaticResource ButtonStyle}">
+                        </Button>
+
+                        <Button 
+                                Name="Categories"
+                                Content="Categories"
+                                Click="Categories_Click"
+                                Style="{StaticResource ButtonStyle}">
+                        </Button>
+
+                        <Button 
+                                Name="Products"
+                                Content="Products"
+                                Click="Products_Click"
+                                Style="{StaticResource ButtonStyle}">
+                        </Button>
+
+                        <Button 
+                                Name="Customer"
+                                Content="Customers"
+                                Click="Customer_Click"
+                                Style="{StaticResource ButtonStyle}">
+                        </Button>
+
+                        <StackPanel Name="CustomerDropDownList" Visibility="Collapsed">
+                            <Button Name="CustomerDetails" Style="{StaticResource MenuButtonStyle}" Click="CustomerDetails_Click" Background="#FF202054">Details</Button>
+                            <Button Name="CustomerOrder" Style="{StaticResource MenuButtonStyle}" Click="CustomerOrder_Click">Orders</Button>
+                            <Button Name="ShowCustomersBills" Style="{StaticResource MenuButtonStyle}" Click="ShowCustomersBills_Click">Bills</Button>
+                            <Button Name="ReturnCustomers" Style="{StaticResource MenuButtonStyle}" Click="ReturnCustomers_Click">Return</Button>
+                            <Button Name="RemainCustomers" Style="{StaticResource MenuButtonStyle}" Click="RemainCustomers_Click">Remain</Button>
+                        </StackPanel>
+
+                        <Button 
+                                Name="Supplier"
+                                Content="Suppliers"
+                                Click="Supplier_Click"
+                                Style="{StaticResource ButtonStyle}">
+                        </Button>
+
+                        <StackPanel Name="SupplierDropDownList" Visibility="Collapsed">
+                            <Button Name="SupplierDetails" Style="{StaticResource MenuButtonStyle}" Click="SupplierDetails_Click">Details</Button>
+                            <Button Name="SupplierOrder" Style="{StaticResource MenuButtonStyle}" Click="SupplierOrder_Click">Orders</Button>
+                            <Button Name="ShowSuppliersBills" Style="{StaticResource MenuButtonStyle}" Click="ShowSupplierBills_Click">Bills</Button>
+                            <Button Name="ReturnSuppliers" Style="{StaticResource MenuButtonStyle}" Click="ReturnSupplier_Click">Return</Button>
+                            <Button Name="RemainSuppliers" Style="{StaticResource MenuButtonStyle}" Click="RemainSupplier_Click">Remain</Button>
+                        </StackPanel>
+
+
+                        <Button 
+                            Name="Reports"
+                            Content="Reports"
+                            Click="Reports_Click"
+                            Style="{StaticResource ButtonStyle}" Background="CornflowerBlue">
+                        </Button>
+
+                    </StackPanel>
+
+
+                </Border>
+                <!--MAIN BODY-->
+
+                <ContentControl x:Name="Main" Grid.Row="1" Grid.Column="1"/>
+
+                <!--END OF MAIN BODY-->
+
+                <!--FOOTER-->
+                <Border Grid.ColumnSpan="2" Grid.Row="2" Margin="3" Background="#FF7272A7" CornerRadius="12" Height="50" HorizontalAlignment="Stretch"/>
+                <!--END FOOTER-->
+            </Grid>
+        </Border>
+    </Border>
+
+</Window>

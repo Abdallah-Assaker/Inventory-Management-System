@@ -1,0 +1,441 @@
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.exe
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.deps.json
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.runtimeconfig.json
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.baml
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.g.resources
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ref\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ControlzEx.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\MahApps.Metro.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CopyComplete
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.baml
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.baml
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.baml
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.baml
+I:\Console\VS 2022\WPF\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.exe
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.deps.json
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.runtimeconfig.json
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Core.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Identity.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ControlzEx.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\MahApps.Metro.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Memory.Data.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.g.resources
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CopyComplete
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+I:\Console\VS 2022\WPF\zahraa\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ref\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.exe
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.deps.json
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.runtimeconfig.json
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Core.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Identity.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ControlzEx.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\MahApps.Metro.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Memory.Data.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.g.resources
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CopyComplete
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ref\InventoryManagementSystem.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Humanizer.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.baml
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.g.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.exe
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.deps.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.g.resources
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CopyComplete
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ref\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.exe
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.deps.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\InventoryManagementSystem.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\bin\Debug\net7.0-windows\ClassLibrary1.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem_MarkupCompile.lref
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CategoryUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerOrderProductsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerRemainUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\CustomerUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ProductUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReportsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnCustomerBillUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ReturnSypplierBillUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomerBillDetailesUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowCustomersBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSupplierBillDetailsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ShowSuppliersBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierProductBillsUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierRemainUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\SupplierUserControl.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.g.resources
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.csproj.CopyComplete
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\refint\InventoryManagementSystem.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\InventoryManagementSystem\obj\Debug\net7.0-windows\ref\InventoryManagementSystem.dll

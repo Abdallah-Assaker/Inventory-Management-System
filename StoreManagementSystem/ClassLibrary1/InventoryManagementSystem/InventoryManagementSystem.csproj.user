@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="CategoryUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerOrderProductsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerRemainUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InventoryUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProductUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReportsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReturnCustomerBillUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReturnSypplierBillUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowCustomerBillDetailesUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowCustomersBillsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowSupplierBillDetailsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowSuppliersBillsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SupplierProductBillsUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SupplierRemainUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SupplierUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CategoryUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerOrderProductsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerRemainUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InventoryUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProductUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReportsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReturnCustomerBillUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReturnSypplierBillUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowCustomerBillDetailesUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowCustomersBillsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowSupplierBillDetailsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShowSuppliersBillsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SupplierProductBillsUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SupplierRemainUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SupplierUserControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

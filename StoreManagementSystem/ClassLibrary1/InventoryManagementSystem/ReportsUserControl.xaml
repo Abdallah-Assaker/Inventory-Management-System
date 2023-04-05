@@ -1,0 +1,129 @@
+﻿<UserControl x:Class="InventoryManagementSystem.ReportsUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InventoryManagementSystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="337*"></ColumnDefinition>
+            <ColumnDefinition Width="96*"></ColumnDefinition>
+            <ColumnDefinition Width="241*"/>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="0.6*"></RowDefinition>
+            <RowDefinition Height="0.6*"></RowDefinition>
+            <RowDefinition Height="0.6*"></RowDefinition>
+            <RowDefinition Height="0.6*"></RowDefinition>
+
+            <RowDefinition Height="20"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <ComboBox Name="comboReportInventory" DisplayMemberPath="Location" Height="30" Width="180" Grid.Row="0" Grid.Column="0" SelectionChanged="comboReportInventory_SelectionChanged" HorizontalAlignment="Left" Margin="0,15,0,15" ></ComboBox>
+        <CheckBox Name="chkReportSelectInventory" Foreground="White" Checked="chkReportSelectInventory_Checked" Unchecked="chkReportSelectInventory_Checked" Margin="210,25,20,0">Select Inventory</CheckBox>
+
+        <!--Top Selling And Least Selling Products-->
+        <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,95,154" Grid.RowSpan="2" Foreground="White"> Best Sellers</TextBlock>
+        <ListView Name="lvRepotsTopSellingProducts" Grid.Row="1" Grid.Column="0" Width="auto" Margin="0,20,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="45"/>
+                    <GridViewColumn Header="Category" DisplayMemberBinding="{Binding RemainingQuantity}" Width="55"/>
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" Width="35"/>
+                    <GridViewColumn Header="SoldQuantity" DisplayMemberBinding="{Binding SoldQuantity}" Width="75"/>
+                    <GridViewColumn Header="Remaining Quantity" DisplayMemberBinding="{Binding RemainingQuantity}" Width="110"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,0,154" Grid.RowSpan="2" Foreground="White"> Least Products Quantity</TextBlock>
+        <ListView Name="lvRepotsLeastProductsQuantity" Grid.Row="1" Grid.Column="1" Width="auto" Margin="0,20,10,10" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="110"/>
+                    <GridViewColumn Header="Category" DisplayMemberBinding="{Binding Total}" Width="105"/>
+                    <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding SoldQuantity}" Width="105"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,95,0" Foreground="White">Top suppliers</TextBlock>
+        <ListView Name="lvRepotsTopSuppliers" Grid.Row="2" Grid.Column="0" Width="auto" Margin="0,20,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="110"/>
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" Width="80"/>
+                    <GridViewColumn Header="Producuts Quantity" DisplayMemberBinding="{Binding ProductQuantites}" Width="140"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Foreground="White">Top Customers</TextBlock>
+        <ListView Name="lvRepotsTopCustomers" Grid.Row="2" Grid.Column="1" Width="auto" Margin="0,20,10,10" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="110"/>
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" Width="80"/>
+                    <GridViewColumn Header="Producuts Quantity" DisplayMemberBinding="{Binding ProductQuantites}" Width="140"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+
+        <TextBlock Foreground="White" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2">Highest Supplier Remaining</TextBlock>
+        <ListView Name="lvRepotsHighestSupplierRemaining" Grid.Row="3" Grid.Column="0" Width="auto" Margin="0,20,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Supplier Name" DisplayMemberBinding="{Binding Name}" Width="130"/>
+                    <GridViewColumn Header="Remaining" DisplayMemberBinding="{Binding Remain}" Width="100"/>
+                    <GridViewColumn Header="Bill" DisplayMemberBinding="{Binding Bills}" Width="90"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <TextBlock Foreground="White" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2">Highest Customer Remaining</TextBlock>
+        <ListView Name="lvRepotsHighestCustomerRemaining" Grid.Row="3" Grid.Column="1" Width="auto" Margin="0,20,10,10" Grid.ColumnSpan="2" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Customer Name" DisplayMemberBinding="{Binding Name}" Width="130"/>
+                    <GridViewColumn Header="Remaining" DisplayMemberBinding="{Binding Remain}" Width="100"/>
+                    <GridViewColumn Header="Bill" DisplayMemberBinding="{Binding Bills}" Width="90"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" Margin="40 0 0 0" Foreground="White">Total Purshase</TextBlock>
+        <ListView Name="lvRepotsTotlalPurchases" Grid.Row="4" Grid.Column="0" Width="250" Margin="0,20,10,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" Width="121" />
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" Width="121"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2" Margin="40 0 0 0" Foreground="White">Total Selling</TextBlock>
+        <ListView Name="lvRepotsTotlalSellings" Grid.Row="4" Grid.Column="1" Width="250" Margin="0,20,10,10" Grid.ColumnSpan="2" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" Width="121"/>
+                    <GridViewColumn Header="Total" DisplayMemberBinding="{Binding Total}" Width="121"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+    
+</UserControl>

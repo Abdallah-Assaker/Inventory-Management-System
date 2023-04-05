@@ -1,0 +1,178 @@
+﻿<UserControl x:Class="InventoryManagementSystem.SupplierProductBillsUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InventoryManagementSystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" BorderThickness="0,0,0,1" BorderBrush="White" Margin="5">
+                <StackPanel >
+                    <Label  Padding="2" HorizontalAlignment="Left" Foreground="White">Inventory Name</Label>
+                    <ComboBox Height="25" Name="SupplierOrderInventoryComBox"  SelectionChanged="InventoryComBox_SelectionChanged">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Path=Location}"></TextBlock>
+                                </WrapPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                </StackPanel>
+            </Border>
+
+
+            <StackPanel Grid.Column="1" Width="145" Margin="5">
+                <Label  Padding="2" HorizontalAlignment="Left" Foreground="White">Purshase Date</Label>
+                <TextBlock Name="SupplierOrderDateTextBlock" Foreground="White"></TextBlock>
+            </StackPanel>
+
+            <Border Grid.Column="2" Width="145" BorderThickness="0,0,0,1" BorderBrush="white" Margin="0 6 0 15">
+                <StackPanel>
+                    <Label  Padding="2" HorizontalAlignment="Left" Margin="30 0 0 0" Foreground="White">Supplier Name</Label>
+                    <ComboBox Height="25" Name="SupplierOrderSupplierComBox"   Width="140">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Path=Name}"></TextBlock>
+                                </WrapPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                </StackPanel>
+            </Border>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" BorderThickness="0,0,0,1" BorderBrush="White" Margin="5">
+                <StackPanel>
+                    <Label  Padding="2" HorizontalAlignment="Left" Foreground="White">Product Name</Label>
+                    <ComboBox Height="25" Name="SupplierOrderProductComBox" SelectionChanged="ProductComBox_SelectionChanged" >
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Path=Name}"></TextBlock>
+                                </WrapPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                </StackPanel>
+            </Border>
+
+            <Border Grid.Column="1" Width="145" BorderThickness="0,0,0,1" BorderBrush="White" Margin="5">
+                <StackPanel>
+                    <Label  Padding="2" HorizontalAlignment="Left" Foreground="White">Quantity</Label>
+                    <TextBox Name="SupplierOrderQuantityTextBox" Width="145" BorderThickness="0" Text="1"></TextBox>
+                </StackPanel>
+            </Border>
+
+            <StackPanel Grid.Column="2" Width="145"  Margin="5">
+                <Label  Padding="2" HorizontalAlignment="Left" Foreground="White">Price</Label>
+                <TextBlock Name="SupplierOrderPriceTextBlock" Width="145" Foreground="White"></TextBlock>
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Row="2" Width="420">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="SupplierOrderAddProductBtn" Grid.Column="0" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,20,10,0" Click="SupplierOrder_AddProductBtn_Click">Add Product</Button>
+            <Button Name="SupplierOrderSaveProductBtn" Grid.Column="1" Width="100" Height="30" Background="White" BorderBrush="Blue" BorderThickness="2" Foreground="Blue" Margin="5,20,10,0" Click="SupplierOrder_SaveProductBtn_Click">Save Product</Button>
+            <Button Name="SupplierOrderDeleteProductBtn" Grid.Column="2" Width="100" Height="30" Background="White" BorderBrush="Red" BorderThickness="2" Foreground="Red" Margin="5,20,5,0" Click="SupplierOrder_DeleteProductBtn_Click">Delete Product</Button>
+
+            
+        </Grid>
+
+        <Grid Grid.Row="3">
+
+
+            <ListView Width="600"  Name="SupplierOrderProductListView" SelectionMode="Single" SelectionChanged="ProductListView_SelectionChanged" >
+                <ListView.View>
+                    <GridView ColumnHeaderToolTip="customer Information">
+                        <GridViewColumn Header="ProductName" DisplayMemberBinding="{Binding Product.Name}" Width="200"/>
+                        <GridViewColumn Header="Quantity" DisplayMemberBinding="{Binding Quantity}" Width="200"/>
+                        <GridViewColumn Header="Price"  DisplayMemberBinding="{Binding TotalPrice}" Width="200"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </Grid>
+
+
+        <Grid Grid.Row="4" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <StackPanel Grid.Column="0" Width="145"   Margin="200 10 0 0 ">
+                <TextBlock  TextAlignment="Left" Foreground="White">Total</TextBlock>
+                <TextBlock Name="SupplierOrderTotalTextBlock" Foreground="White"></TextBlock>
+            </StackPanel>
+
+
+            <Border Grid.Column="1"  Width="140" BorderThickness="0,0,0,1" BorderBrush="White" Margin="20 6 0 12">
+                <StackPanel>
+                    <Label   HorizontalAlignment="Left" Foreground="White">Paid Money</Label>
+                    <TextBox Name="SupplierOrderPaidMoneyTextBox" Width="145" BorderThickness="0" ></TextBox>
+                </StackPanel>
+            </Border>
+
+            <StackPanel Grid.Column="2" Width="145"  Margin="0 10 0 0 ">
+
+                <TextBlock TextAlignment="Left" Foreground="White">Remain</TextBlock>
+                <TextBlock Name="SupplierOrderRemainTextBlock" Foreground="White"></TextBlock>
+            </StackPanel>
+
+        </Grid>
+
+
+        <Grid Grid.Row="5" Width="300">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="SupplierOrderAddBillBtn" Grid.Column="0" Width="100" Height="30" Background="White" BorderBrush="Green" BorderThickness="2" Foreground="Green" Margin="5,20,10,0" Click="SupplierOrderAddBillBtn_Click">Add Bill</Button>
+            <Button Name="SupplierOrderResetBillBtn" Grid.Column="1" Width="100" Height="30" Background="White" BorderBrush="Red" BorderThickness="2" Foreground="Red" Margin="5,20,10,0" Click="SupplierOrderResetBillBtn_Click">Reset Bill</Button>
+
+        </Grid>
+
+    </Grid>
+
+</UserControl>

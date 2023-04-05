@@ -1,0 +1,56 @@
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.runtimeconfig.json
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.genruntimeconfig.cache
+D:\ITI-9month\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.runtimeconfig.json
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.genruntimeconfig.cache
+I:\Console\VS 2022\WPF\zahraa\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.runtimeconfig.json
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.genruntimeconfig.cache
+I:\Console\VS 2022\WPF\zahraa\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.runtimeconfig.json
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.genruntimeconfig.cache
+C:\Users\abdal\Desktop\Current\Finale\StoreManagementSystem\ClassLibrary1\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll
